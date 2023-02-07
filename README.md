@@ -4,5 +4,6 @@ This is a Quiz for software engineers to practice their vocabulary.
 
 link to deployed website https://wodaloo.github.io/Code-Quiz/
 
-(https://user-images.githubusercontent.com/119343529/217145980-79de7131-9075-43c3-9bc0-15497b1b20f7.png)
+![image](https://user-images.githubusercontent.com/119343529/217146065-8fdb52a0-0db2-406a-aef2-92cc7fcf0ee5.png)
+
 
